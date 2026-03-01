@@ -4,16 +4,20 @@
 Experienced Senior Front-End Engineer recognized for delivering enterprise-scale solutions, mentoring teams, and translating complex challenges into business value.  Proven leader driving cross-functional teams to achieve business goals while shaping architecture and engineering standards. Passionate about building reliable, user-centric platforms and mentoring teams to excellence.
 
 <p align="center">
-  <!-- LinkedIn Badge -->
+
   <a href="https://linkedin.com/in/shilpabharam/">
     <img src="https://img.shields.io/badge/Shilpa%20Bharam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- Portfolio Badge -->
+
   <a href="https://shilpa-bharam-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-670067?style=for-the-badge&logo=vercel&logoColor=white" alt=" My Portfolio">
   </a>
 </p>
-https://img.shields.io/badge/Shilpa%20Bharam-My%20Portfolio-0077B5?style=for-the-badge
+
+<img width="800" height="800" align="center" alt="image" src="https://github.com/user-attachments/assets/9ebc0139-55a7-492b-a303-8cd6dc9a6552" />
+
+
+---
 ##💫 About Me  ##
 ---
 🔭 Senior FullStack Engineer building scalable React & Nextjs, NodeJs platforms  
