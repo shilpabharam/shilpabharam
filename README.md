@@ -2,12 +2,6 @@
 <h3 align="center">Senior FullStack Engineer | React • Next.js • TypeScript . NodeJs . MongoDB.  MySQl | Building Scalable Enterprise Platforms</h3>
 
 <p align="center">
-  📍 Seattle, WA <br/>
-  🚀 8+ Years in FullStack Engineering across Retail, Enterprise & Banking <br/>
-  Passionate about scalable architecture, performance optimization & accessibility (WCAG)
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/shilpabharam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
@@ -16,24 +10,20 @@
   </a>
 </p>
 
-<img width="890" height="400" alt="image" src="https://github.com/user-attachments/assets/afceec3f-0113-4d88-a4f1-6020a13ef6dd" />
+<img width="590" height="400" alt="image" src="https://github.com/user-attachments/assets/afceec3f-0113-4d88-a4f1-6020a13ef6dd" />
 
 ---
-
 ## 💫 About Me
-
 🔭 Senior Front-End Engineer building scalable React & Next.js platforms  
 🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG)  
 👩‍🏫 Mentor & code-review advocate — led frontend standards across teams  
 ⚡ Experienced in enterprise-scale platforms (40K+ users across 20+ countries)  
 🤝 Cross-functional collaborator working closely with Product & Backend teams  
 📫 Reach me: **shilpabharam06@gmail.com**
-
 ---
 
 ## 🚀 Professional Experience Highlights
-
-Pointse - 
+### 🏢 Pointse
 At Pointse, we are dedicated to empowering small businesses to thrive. Our mission is to provide innovative tools and solutions that maximize revenue and minimize operational costs. We aim to streamline your operations, enhance customer loyalty, and foster sustainable growth.
 https://pointse.net/wp-content/uploads/2024/11/Pointse-video_final_min.webm
 
@@ -55,22 +45,15 @@ https://pointse.net/wp-content/uploads/2024/11/Pointse-video_final_min.webm
 HP Workforce Experience Platform is a global enterprise application used by 40K+ employees across 20+ countries to streamline IT workflows and employee support processes. It centralizes incident tracking, approvals, and workforce operations into a scalable, unified digital experience.
 https://workforceexperience.hp.com/digital-workspaces/?jumpid=ps_us_go_mk_mc_CM020443_co_x_vdunb&gclsrc=aw.ds&gad_source=1&gad_campaignid=22980913367&gbraid=0AAAAA_nWbB_xcA_28X6SQS7HMRvqHdE6T&gclid=Cj0KCQiA5I_NBhDVARIsAOrqIsbZSBuHODEwOraa_Z4mZIiGj6Pf9v9E61dflHz0U065RUUkqFXXmq8aAkoKEALw_wcB
 
-
-
 ### 🖥 Retail Point Of Sales
-
+RPOS system captures device and peripheral data to analyze incidents and KPIs, providing actionable insights for retail store performance.
 
 ### 🏦 SME Banking Application
-
-- Migrated legacy jQuery banking apps to **Angular**
-- Supported **200K+ customers**
-
----
-
+A scalable web-based SME banking platform integrating core banking APIs to handle business accounts, lending workflows, and transaction management.Built to ensure high security, reliability, and seamless user experience within a regulated financial ecosystem.
+  
 ### 🚗 ARAI 
 We deliver end-to-end solutions, not just components. Our integrated framework turns raw data from the physical world into decisive action and measurable business outcomes.
-- Built real-time IoT fleet management dashboard from scratch
-- Integrated Google Maps APIs & REST APIs
+https://yun.buzz/capabilities.html
 
 ---
 
@@ -110,15 +93,13 @@ We deliver end-to-end solutions, not just components. Our integrated framework t
 
 ## 🏆 Awards
 
-🏅 **On-the-Fly Award** – HP  
-🏅 **Rising Star Award** – Capgemini  
+🏅 **Innovation & Excellence Award ** – HP  
+🏅 **Rising Engineer Award** – Capgemini  
 
 ---
-
 ## 🎓 Education
 
-Bachelor in Computer Engineering  
-University of Pune | 2015  
+Bachelor in Computer Engineering | University of Pune
 
 ---
 
@@ -134,7 +115,6 @@ University of Pune | 2015
 ## ✨ Engineering Philosophy
 
 > “Build systems that scale, code that lasts, and experiences that are accessible to everyone.”
-
 I believe in:
 - Clean architecture
 - Performance-first thinking
