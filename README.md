@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shilpa Bharam</h1>
-<h3 align="center">Senior FullStack Engineer | React • Next.js • TypeScript . NodeJs . MongoDB.  MySQL| Building Scalable Enterprise Platforms</h3>
+<h3 align="center">Senior FullStack Engineer</h3>
 
+Experienced Senior Front-End Engineer recognized for delivering enterprise-scale solutions, mentoring teams, and translating complex challenges into business value.
 <p align="center">
   <a href="https://linkedin.com/in/shilpabharam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
