@@ -11,7 +11,7 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
   </a>
 </p>
-[![Shilpa Bharam - My Portfolio](https://img.shields.io/badge/Shilpa%20Bharam-My%20Portfolio-0077B5?style=for-the-badge)](https://github.com/shilpabharam)
+https://img.shields.io/badge/Shilpa%20Bharam-My%20Portfolio-0077B5?style=for-the-badge
 ##💫 About Me  ##
 ---
 🔭 Senior FullStack Engineer building scalable React & Nextjs, NodeJs platforms  
