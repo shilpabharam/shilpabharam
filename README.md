@@ -12,14 +12,13 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
   </a>
 </p>
 
- 💫 About Me 
+##💫 About Me  ##
 🔭 Senior Front-End Engineer building scalable React & Next.js platforms  
 🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG)  
 👩‍🏫 Mentor & code-review advocate — led frontend standards across teams  
 ⚡ Experienced in enterprise-scale platforms (40K+ users across 20+ countries)  
 🤝 Cross-functional collaborator working closely with Product & Backend teams  
 📫 Reach me: **shilpabharam06@gmail.com**
----
 
 ## 🚀 Professional Experience Highlights
 ### 🏢 Pointse
