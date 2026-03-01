@@ -16,6 +16,8 @@
   </a>
 </p>
 
+<img width="2090" height="2100" alt="image" src="https://github.com/user-attachments/assets/afceec3f-0113-4d88-a4f1-6020a13ef6dd" />
+
 ---
 
 ## 💫 About Me
