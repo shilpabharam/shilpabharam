@@ -91,22 +91,12 @@ MathYogi leverages dynamic math to identify student weaknesses, analyze problem-
 
 ## 🏆 Awards
 
-🏅 **Innovation & Excellence Award ** – HP  
+🏅 Innovation & Excellence Award  – HP  
 🏅 **Rising Engineer Award** – Capgemini  
 
 ---
 ## 🎓 Education
-
 Bachelor in Computer Engineering | University of Pune
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shilpabharam&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilpabharam&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
