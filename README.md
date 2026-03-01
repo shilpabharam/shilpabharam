@@ -14,7 +14,7 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
 
 ##💫 About Me  ##
 ---
-🔭 Senior Front-End Engineer building scalable React & Next.js platforms  
+🔭 Senior FullStack Engineer building scalable React & Nextjs, NodeJs platforms  
 🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG)  
 👩‍🏫 Mentor & code-review advocate — led frontend standards across teams  
 ⚡ Experienced in enterprise-scale platforms (40K+ users across 20+ countries)  
