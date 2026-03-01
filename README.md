@@ -8,15 +8,9 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
   <a href="https://linkedin.com/in/shilpabharam/">
     <img src="https://img.shields.io/badge/Shilpa%20Bharam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
   <!-- Portfolio Badge -->
   <a href="https://shilpa-bharam-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Shilpa%20Bharam-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-
-  <!-- GitHub Badge (optional) -->
-  <a href="https://github.com/shilpabharam">
-    <img src="https://img.shields.io/badge/Shilpa%20Bharam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 https://img.shields.io/badge/Shilpa%20Bharam-My%20Portfolio-0077B5?style=for-the-badge
