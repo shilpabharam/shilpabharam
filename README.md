@@ -10,7 +10,7 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
   </a>
   <!-- Portfolio Badge -->
   <a href="https://shilpa-bharam-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt=" My Portfolio">
+    <img src="https://img.shields.io/badge/My%20Portfolio-670067?style=for-the-badge&logo=vercel&logoColor=white" alt=" My Portfolio">
   </a>
 </p>
 https://img.shields.io/badge/Shilpa%20Bharam-My%20Portfolio-0077B5?style=for-the-badge
