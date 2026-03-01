@@ -10,7 +10,6 @@
   </a>
 </p>
 
-<img width="824" height="832" alt="image" src="https://github.com/user-attachments/assets/2f83ff2d-19c5-49b4-bef4-2a1731f51040" />
 
 ---
 ## 💫 About Me
