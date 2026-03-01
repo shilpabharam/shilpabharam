@@ -17,17 +17,15 @@ Experienced Senior FullStack Engineer recognized for delivering enterprise-scale
 <img width="800" height="800" align="center" alt="image" src="https://github.com/user-attachments/assets/9ebc0139-55a7-492b-a303-8cd6dc9a6552" />
 
 
----
-##💫 About Me  ##
---
-🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG), User Experience.
-🤝 Team-Oriented: Problem Solver, Collaborator, knowledge-sharing, project-driven.
-🚀 Specializations: FullStack Development with ReactJS, NextJS, Typescript , NodeJS & MongoDB.
-🤖 Domain Experience: IOT, Enterprise, Retail, Banking, Marketing, Education. 
-📫 Contact: shilpabharam06@gmail.com, Linkedin - https://www.linkedin.com/in/shilpabharam
-⚡ Fun Fact: Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini. 💖 Hobbies: My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
+## 💫 About Me ##
 
---
+🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG), User Experience.  
+🤝 Team-Oriented: Problem Solver, Collaborator, knowledge-sharing, project-driven.  
+🚀 Specializations: FullStack Development with ReactJS, NextJS, Typescript, NodeJS & MongoDB.  
+🤖 Domain Experience: IOT, Enterprise, Retail, Banking, Marketing, Education.  
+📫 Contact: shilpabharam06@gmail.com | [LinkedIn](https://www.linkedin.com/in/shilpabharam)  
+⚡ Fun Fact: Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini.  
+💖 Hobbies: My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
 
 ##  Professional Experience Highlights
 ### 🏢 SME Digital Growth Platform | New Fold Digital
