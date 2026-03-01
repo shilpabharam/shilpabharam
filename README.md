@@ -20,12 +20,12 @@ Experienced Senior FullStack Engineer recognized for delivering enterprise-scale
 ---
 ##💫 About Me  ##
 ---
-🔭 Senior FullStack Engineer building scalable React & Nextjs, NodeJs platforms  
-🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG)  
-👩‍🏫 Mentor & code-review advocate — led frontend standards across teams  
-⚡ Experienced in enterprise-scale platforms (40K+ users across 20+ countries)  
-🤝 Cross-functional collaborator working closely with Product & Backend teams  
-📫 Reach me: **shilpabharam06@gmail.com**
+🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG), User Experience.
+🤝 Team-Oriented: Problem Solver, Collaborator, knowledge-sharing, project-driven.
+🚀 Specializations: FullStack Development with ReactJS, NextJS, Typescript , NodeJS & MongoDB.
+🤖 Domain Experience: IOT, Enterprise, Retail, Banking, Marketing, Education. 
+📫 Contact: shilpabharam06@gmail.com, Linkedin - https://www.linkedin.com/in/shilpabharam
+⚡ Fun Fact: Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini. 💖 Hobbies: My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
 
 ##  Professional Experience Highlights
 ### 🏢 SME Digital Growth Platform | New Fold Digital
