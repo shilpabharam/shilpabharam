@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shilpa Bharam</h1>
-<h3 align="center">Senior FullStack Engineer | React • Next.js • TypeScript . NodeJs . MongoDB.  MySQl | Building Scalable Enterprise Platforms</h3>
+<h3 align="center">Senior FullStack Engineer | React • Next.js • TypeScript . NodeJs . MongoDB.  MySQL| Building Scalable Enterprise Platforms</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shilpabharam/">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img width="590" height="400" alt="image" src="https://github.com/user-attachments/assets/afceec3f-0113-4d88-a4f1-6020a13ef6dd" />
+<img width="824" height="832" alt="image" src="https://github.com/user-attachments/assets/2f83ff2d-19c5-49b4-bef4-2a1731f51040" />
 
 ---
 ## 💫 About Me
