@@ -34,11 +34,10 @@
 ## 🚀 Professional Experience Highlights
 
 Pointse - 
-https://pointse.net/
 At Pointse, we are dedicated to empowering small businesses to thrive. Our mission is to provide innovative tools and solutions that maximize revenue and minimize operational costs. We aim to streamline your operations, enhance customer loyalty, and foster sustainable growth.
+https://pointse.net/wp-content/uploads/2024/11/Pointse-video_final_min.webm
 
 ### 🏢 New Fold Digital
-
 - Redesigned rendering strategy using **Next.js SSR/SSG**
 - Improved release stability with **90%+ test coverage (Jest, RTL)**
 - Enforced WCAG accessibility standards across enterprise dashboards
@@ -52,13 +51,8 @@ At Pointse, we are dedicated to empowering small businesses to thrive. Our missi
 - 
 ---
 
-
-
-
 ### 🖥 Workforce Experience Platform
-
 HP Workforce Experience Platform is a global enterprise application used by 40K+ employees across 20+ countries to streamline IT workflows and employee support processes. It centralizes incident tracking, approvals, and workforce operations into a scalable, unified digital experience.
-
 https://workforceexperience.hp.com/digital-workspaces/?jumpid=ps_us_go_mk_mc_CM020443_co_x_vdunb&gclsrc=aw.ds&gad_source=1&gad_campaignid=22980913367&gbraid=0AAAAA_nWbB_xcA_28X6SQS7HMRvqHdE6T&gclid=Cj0KCQiA5I_NBhDVARIsAOrqIsbZSBuHODEwOraa_Z4mZIiGj6Pf9v9E61dflHz0U065RUUkqFXXmq8aAkoKEALw_wcB
 
 
