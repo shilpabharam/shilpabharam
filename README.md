@@ -13,6 +13,7 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
 </p>
 
 ##💫 About Me  ##
+---
 🔭 Senior Front-End Engineer building scalable React & Next.js platforms  
 🏗 Strong focus on architecture, performance, SEO (SSR/SSG) & accessibility (WCAG)  
 👩‍🏫 Mentor & code-review advocate — led frontend standards across teams  
@@ -20,38 +21,38 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
 🤝 Cross-functional collaborator working closely with Product & Backend teams  
 📫 Reach me: **shilpabharam06@gmail.com**
 
-## 🚀 Professional Experience Highlights
-### 🏢 Pointse
-At Pointse, we are dedicated to empowering small businesses to thrive. Our mission is to provide innovative tools and solutions that maximize revenue and minimize operational costs. We aim to streamline your operations, enhance customer loyalty, and foster sustainable growth.
-https://pointse.net/wp-content/uploads/2024/11/Pointse-video_final_min.webm
-
+##  Professional Experience Highlights
 ### 🏢 New Fold Digital
-- Redesigned rendering strategy using **Next.js SSR/SSG**
-- Improved release stability with **90%+ test coverage (Jest, RTL)**
-- Enforced WCAG accessibility standards across enterprise dashboards
-- Reduced production regressions through structured testing & memoization strategies
+Empowered SMEs with integrated online marketing and advertising tools to boost digital presence and deliver measurable results.
+Enhanced product onboarding flows and optimized frontend performance, ensuring stability and seamless user experiences across web solutions.
 
-### 🏢 Inventory Management System
+###  Inventory Management System
 - Redesigned rendering strategy using **Next.js SSR/SSG**
 - Improved release stability with **90%+ test coverage (Jest, RTL)**
 - Enforced WCAG accessibility standards across enterprise dashboards
 - Reduced production regressions through structured testing & memoization strategie
-- 
----
 
-### 🖥 Workforce Experience Platform
+###  Workforce Experience Platform
 HP Workforce Experience Platform is a global enterprise application used by 40K+ employees across 20+ countries to streamline IT workflows and employee support processes. It centralizes incident tracking, approvals, and workforce operations into a scalable, unified digital experience.
-https://workforceexperience.hp.com/digital-workspaces/?jumpid=ps_us_go_mk_mc_CM020443_co_x_vdunb&gclsrc=aw.ds&gad_source=1&gad_campaignid=22980913367&gbraid=0AAAAA_nWbB_xcA_28X6SQS7HMRvqHdE6T&gclid=Cj0KCQiA5I_NBhDVARIsAOrqIsbZSBuHODEwOraa_Z4mZIiGj6Pf9v9E61dflHz0U065RUUkqFXXmq8aAkoKEALw_wcB
+https://workforceexperience.hp.com/digital-workspaces/
 
-### 🖥 Retail Point Of Sales
+###  Retail Point Of Sales
 RPOS system captures device and peripheral data to analyze incidents and KPIs, providing actionable insights for retail store performance.
 
-### 🏦 SME Banking Application
+###  SME Banking Application
 A scalable web-based SME banking platform integrating core banking APIs to handle business accounts, lending workflows, and transaction management.Built to ensure high security, reliability, and seamless user experience within a regulated financial ecosystem.
   
-### 🚗 ARAI 
+### ARAI 
 We deliver end-to-end solutions, not just components. Our integrated framework turns raw data from the physical world into decisive action and measurable business outcomes.
 https://yun.buzz/capabilities.html
+
+### 🏢 Pointse
+At Pointse, we are dedicated to empowering small businesses to thrive. Our mission is to provide innovative tools and solutions that maximize revenue and minimize operational costs. We aim to streamline your operations, enhance customer loyalty, and foster sustainable growth.
+https://pointse.net/wp-content/uploads/2024/11/Pointse-video_final_min.webm
+
+### 🏢 MathYogi
+MathYogi leverages dynamic math to identify student weaknesses, analyze problem-solving steps, and provide tailored resources for improvement. Mission is to combine computer animation, crowdsourcing, and big data to elevate math learning worldwide.
+
 
 ---
 
@@ -63,7 +64,6 @@ https://yun.buzz/capabilities.html
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ---
 
