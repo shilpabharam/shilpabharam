@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img width="890" height="800" alt="image" src="https://github.com/user-attachments/assets/afceec3f-0113-4d88-a4f1-6020a13ef6dd" />
+<img width="890" height="400" alt="image" src="https://github.com/user-attachments/assets/afceec3f-0113-4d88-a4f1-6020a13ef6dd" />
 
 ---
 
@@ -33,39 +33,50 @@
 
 ## 🚀 Professional Experience Highlights
 
-### 🏢 New Fold Digital | Senior Front-End Engineer (2025–Present)
+Pointse - 
+https://pointse.net/
+At Pointse, we are dedicated to empowering small businesses to thrive. Our mission is to provide innovative tools and solutions that maximize revenue and minimize operational costs. We aim to streamline your operations, enhance customer loyalty, and foster sustainable growth.
+
+### 🏢 New Fold Digital
 
 - Redesigned rendering strategy using **Next.js SSR/SSG**
 - Improved release stability with **90%+ test coverage (Jest, RTL)**
 - Enforced WCAG accessibility standards across enterprise dashboards
 - Reduced production regressions through structured testing & memoization strategies
 
+### 🏢 Inventory Management System
+- Redesigned rendering strategy using **Next.js SSR/SSG**
+- Improved release stability with **90%+ test coverage (Jest, RTL)**
+- Enforced WCAG accessibility standards across enterprise dashboards
+- Reduced production regressions through structured testing & memoization strategie
+- 
 ---
 
-### 🖥 HP | Senior Front-End Engineer (2020–2025)
 
-- Built & scaled Workforce Experience Platform serving **40K+ users globally**
-- Led frontend architecture using **React, TypeScript & Redux Toolkit**
-- Reduced IT approval turnaround time by **15%** via Incident Tracking System
-- Mentored 3 engineers, enforced coding standards & review processes
-- Deployed scalable features using **Azure, Docker & Kubernetes CI/CD**
 
----
 
-### 🏦 Capgemini | Front-End Engineer (2018–2019)
+### 🖥 Workforce Experience Platform
+
+HP Workforce Experience Platform is a global enterprise application used by 40K+ employees across 20+ countries to streamline IT workflows and employee support processes. It centralizes incident tracking, approvals, and workforce operations into a scalable, unified digital experience.
+
+https://workforceexperience.hp.com/digital-workspaces/?jumpid=ps_us_go_mk_mc_CM020443_co_x_vdunb&gclsrc=aw.ds&gad_source=1&gad_campaignid=22980913367&gbraid=0AAAAA_nWbB_xcA_28X6SQS7HMRvqHdE6T&gclid=Cj0KCQiA5I_NBhDVARIsAOrqIsbZSBuHODEwOraa_Z4mZIiGj6Pf9v9E61dflHz0U065RUUkqFXXmq8aAkoKEALw_wcB
+
+
+
+### 🖥 Retail Point Of Sales
+
+
+### 🏦 SME Banking Application
 
 - Migrated legacy jQuery banking apps to **Angular**
 - Supported **200K+ customers**
-- Reduced defect rate by **20%**
-- Improved maintainability & security posture
 
 ---
 
-### 🚗 ARAI | Front-End Engineer (2017–2018)
-
+### 🚗 ARAI 
+We deliver end-to-end solutions, not just components. Our integrated framework turns raw data from the physical world into decisive action and measurable business outcomes.
 - Built real-time IoT fleet management dashboard from scratch
 - Integrated Google Maps APIs & REST APIs
-- Ensured cross-browser compatibility & responsive design
 
 ---
 
