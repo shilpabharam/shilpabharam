@@ -24,8 +24,7 @@ Experienced Senior FullStack Engineer recognized for delivering enterprise-scale
 🚀 Specializations: FullStack Development with ReactJS, NextJS, Typescript, NodeJS & MongoDB.  
 🤖 Domain Experience: IOT, Enterprise, Retail, Banking, Marketing, Education.  
 📫 Contact: shilpabharam06@gmail.com | [LinkedIn](https://www.linkedin.com/in/shilpabharam)  
-⚡ Fun Fact: Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini.  
-💖 Hobbies: My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
+💖 Hobbies: travelling , spending time with my family.
 
 ##  Professional Experience Highlights
 ### 🏢 SME Digital Growth Platform | New Fold Digital
