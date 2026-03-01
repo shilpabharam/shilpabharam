@@ -3,7 +3,7 @@
 
 <p align="center">
   📍 Seattle, WA <br/>
-  🚀 8+ Years in Frontend Engineering across Retail, Enterprise & Banking <br/>
+  🚀 8+ Years in FullStack Engineering across Retail, Enterprise & Banking <br/>
   Passionate about scalable architecture, performance optimization & accessibility (WCAG)
 </p>
 
@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/shilpabharam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/shilpabharam">
+  <a href="https://shilpa-bharam-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
   </a>
 </p>
