@@ -22,27 +22,21 @@ Experienced Senior Front-End Engineer recognized for delivering enterprise-scale
 📫 Reach me: **shilpabharam06@gmail.com**
 
 ##  Professional Experience Highlights
-### 🏢 New Fold Digital
+### 🏢 SME Digital Growth Platform | New Fold Digital
 Empowered SMEs with integrated online marketing and advertising tools to boost digital presence and deliver measurable results.
 Enhanced product onboarding flows and optimized frontend performance, ensuring stability and seamless user experiences across web solutions.
 
-###  Inventory Management System
-- Redesigned rendering strategy using **Next.js SSR/SSG**
-- Improved release stability with **90%+ test coverage (Jest, RTL)**
-- Enforced WCAG accessibility standards across enterprise dashboards
-- Reduced production regressions through structured testing & memoization strategie
-
-###  Workforce Experience Platform
+###  Workforce Experience Platform | HP
 HP Workforce Experience Platform is a global enterprise application used by 40K+ employees across 20+ countries to streamline IT workflows and employee support processes. It centralizes incident tracking, approvals, and workforce operations into a scalable, unified digital experience.
 https://workforceexperience.hp.com/digital-workspaces/
 
-###  Retail Point Of Sales
+###  Retail Point Of Sales | HP
 RPOS system captures device and peripheral data to analyze incidents and KPIs, providing actionable insights for retail store performance.
 
-###  SME Banking Application
+###  SME Banking Application | Capgemini
 A scalable web-based SME banking platform integrating core banking APIs to handle business accounts, lending workflows, and transaction management.Built to ensure high security, reliability, and seamless user experience within a regulated financial ecosystem.
   
-### ARAI 
+### Fleet Management Syatem | ARAI
 We deliver end-to-end solutions, not just components. Our integrated framework turns raw data from the physical world into decisive action and measurable business outcomes.
 https://yun.buzz/capabilities.html
 
