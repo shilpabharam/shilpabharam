@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shilpa Bharam</h1>
 <h3 align="center">Senior FullStack Engineer</h3>
 
-Experienced Senior Front-End Engineer recognized for delivering enterprise-scale solutions, mentoring teams, and translating complex challenges into business value.  Proven leader driving cross-functional teams to achieve business goals while shaping architecture and engineering standards. Passionate about building reliable, user-centric platforms and mentoring teams to excellence.
+Experienced Senior FullStack Engineer recognized for delivering enterprise-scale solutions, mentoring teams, and translating complex challenges into business value.  Proven leader driving cross-functional teams to achieve business goals while shaping architecture and engineering standards. Passionate about building reliable, user-centric platforms and mentoring teams to excellence.
 
 <p align="center">
 
