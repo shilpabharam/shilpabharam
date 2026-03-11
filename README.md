@@ -14,7 +14,7 @@ Experienced Senior FullStack Engineer recognized for delivering enterprise-scale
   </a>
 </p>
 
-<img width="800" height="400" align="center" alt="image" src="https://github.com/user-attachments/assets/9ebc0139-55a7-492b-a303-8cd6dc9a6552" />
+
 
 
 ## 💫 About Me ##
